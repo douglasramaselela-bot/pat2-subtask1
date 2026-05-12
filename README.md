@@ -1,4 +1,4 @@
-# pat2-subtask1
+# pat2-subtask2
 #include <iostream>
 #include <string>
 #include <cctype>
